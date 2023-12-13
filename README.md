@@ -2,8 +2,6 @@
 ## Secretaría de Seguridad Ciudadana de la Ciudad de México
 
 
-🌱
-### Lil baby sprout
 🗿
 
 
