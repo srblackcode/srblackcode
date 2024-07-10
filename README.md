@@ -1,5 +1,4 @@
-# Repositorio de proyectos de la Dirección de Desarrollo de Sistemas Informáticos
-## Secretaría de Seguridad Ciudadana de la Ciudad de México
+# Repositorio de proyectos
 
 
 🗿
